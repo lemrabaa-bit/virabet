@@ -1,4 +1,4 @@
-import React from "react";
+import { useState } from "react";
 type Match = {
   id: number;
   league: string;
